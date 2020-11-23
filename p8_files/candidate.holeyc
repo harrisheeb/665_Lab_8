@@ -1,0 +1,16 @@
+int main(){
+	int a;
+	int b;
+	a = 4;
+	b = 5;
+	if(a<b){
+		while(a<b){
+			a = a + 1;
+		}
+		a = a - 1;
+	} else {
+		b = 5;
+		TOCONSOLE b;
+	}
+	a = 10;
+}
